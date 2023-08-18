@@ -9,9 +9,9 @@
         }
     ],
     "require": {
-        "php": "^7.2|^8.0",
+        "php": "^7.2|^8.0|^8.1|^8.2",
         "laravelcollective/html": "^6.0",
-        "illuminate/translation": "^6.0|^7.0|^8.0"
+        "illuminate/translation": "^6.0|^7.0|^8.0|^9.0|^10.0"
     },
     "require-dev": {
         "phpspec/phpspec": "~7.0"
